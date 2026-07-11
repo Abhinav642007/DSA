@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abhinav642007/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav642007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhinav642007/DSA/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhinav642007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhinav642007/DSA/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhinav642007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
