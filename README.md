@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abhinav642007/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav642007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Abhinav642007/DSA/tree/master/0066-plus-one) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav642007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhinav642007/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinav642007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Abhinav642007/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhinav642007/DSA/tree/master/0018-4sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Abhinav642007/DSA/tree/master/0367-valid-perfect-square) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
 | ------- |
