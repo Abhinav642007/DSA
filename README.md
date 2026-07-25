@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abhinav642007/DSA/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/Abhinav642007/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Abhinav642007/DSA/tree/master/0633-sum-of-square-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhinav642007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abhinav642007/DSA/tree/master/0018-4sum) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav642007/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhinav642007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
