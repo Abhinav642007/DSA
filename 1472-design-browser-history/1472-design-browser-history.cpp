@@ -25,17 +25,17 @@ public:
     void visit(string url) {
 
         // Delete all forward history
-        if (currentPage->next) {
-            Node* temp = currentPage->next;
+        // if (currentPage->next) {
+        //     Node* temp = currentPage->next;
 
-            while (temp) {
-                Node* nextNode = temp->next;
-                delete temp;
-                temp = nextNode;
-            }
+        //     while (temp) {
+        //         Node* nextNode = temp->next;
+        //         delete temp;
+        //         temp = nextNode;
+        //     }
 
-            currentPage->next = nullptr;
-        }
+        //     currentPage->next = nullptr;
+        // }
 
         // Create and connect the new page
         Node* newNode = new Node(url);
