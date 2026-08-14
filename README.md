@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav642007/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhinav642007/DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Abhinav642007/DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav642007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav642007/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Abhinav642007/DSA/tree/master/0877-stone-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhinav642007/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Abhinav642007/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav642007/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav642007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhinav642007/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Abhinav642007/DSA/tree/master/3731-find-missing-elements) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhinav642007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinav642007/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Abhinav642007/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhinav642007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Abhinav642007/DSA/tree/master/1472-design-browser-history) |
@@ -260,5 +263,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Abhinav642007/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
