@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhinav642007/DSA/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/Abhinav642007/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav642007/DSA/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhinav642007/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav642007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhinav642007/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhinav642007/DSA/tree/master/3536-maximum-product-of-two-digits) |
