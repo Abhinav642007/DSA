@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhinav642007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinav642007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Abhinav642007/DSA/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Abhinav642007/DSA/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhinav642007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav642007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhinav642007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
