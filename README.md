@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhinav642007/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhinav642007/DSA/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/Abhinav642007/DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Abhinav642007/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Abhinav642007/DSA/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhinav642007/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav642007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -279,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Abhinav642007/DSA/tree/master/0901-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Abhinav642007/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
