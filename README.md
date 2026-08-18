@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhinav642007/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhinav642007/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abhinav642007/DSA/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Abhinav642007/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhinav642007/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Abhinav642007/DSA/tree/master/0412-fizz-buzz) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Abhinav642007/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Abhinav642007/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinav642007/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinav642007/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Abhinav642007/DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Abhinav642007/DSA/tree/master/0709-to-lower-case) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Abhinav642007/DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Abhinav642007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinav642007/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0234-palindrome-linked-list) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Abhinav642007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhinav642007/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abhinav642007/DSA/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
