@@ -1,107 +1,76 @@
 class Solution {
 public:
 
-    // ------------------------------------------------
-    // LeetCode 84: Largest Rectangle in Histogram
-    // ------------------------------------------------
+    // LeetCode 84:
+    // Given histogram heights, find the largest rectangle area
     int largestRectangleArea(vector<int>& heights) {
 
-        int n = heights.size();
-
-        vector<int> prev(n);
-        vector<int> next(n);
-
-        stack<int> st;
-
-
-        // ---------------------------------------------
-        // 1. Previous Smaller Element
-        // ---------------------------------------------
-
-        for (int i = 0; i < n; i++) {
-
-            // Greater or equal elements ko remove karo
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
-                st.pop();
-            }
-
-            // Agar koi smaller element left mein nahi hai
-            if (st.empty())
-                prev[i] = -1;
-            else
-                prev[i] = st.top();
-
-            // Current INDEX stack mein store karo
-            st.push(i);
-        }
-
-
-        // Stack clear karo
-        while (!st.empty())
-            st.pop();
-
-
-        // ---------------------------------------------
-        // 2. Next Smaller Element
-        // ---------------------------------------------
-
-        for (int i = n - 1; i >= 0; i--) {
-
-            // Greater or equal elements ko remove karo
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
-                st.pop();
-            }
-
-            // Agar right mein koi smaller element nahi hai
-            if (st.empty())
-                next[i] = n;
-            else
-                next[i] = st.top();
-
-            // Current INDEX stack mein store karo
-            st.push(i);
-        }
-
-
-        // ---------------------------------------------
-        // 3. Calculate Maximum Area
-        // ---------------------------------------------
-
+        stack<int> st;   // Stack mein indices store karenge
         int maxArea = 0;
 
-        for (int i = 0; i < n; i++) {
+        // Extra 0 add kar rahe hain taaki
+        // last ke remaining bars bhi process ho jayein
+        heights.push_back(0);
 
-            // Previous smaller aur next smaller ke
-            // beech ka total width
-            int width = next[i] - prev[i] - 1;
+        for (int i = 0; i < heights.size(); i++) {
 
-            // Rectangle area
-            int area = heights[i] * width;
+            // Agar current height stack ke top se chhoti hai,
+            // toh stack ke top wale bar ka rectangle complete ho gaya
+            while (!st.empty() && heights[st.top()] > heights[i]) {
 
-            // Maximum area update
-            maxArea = max(maxArea, area);
+                int height = heights[st.top()];
+                st.pop();
+
+                // Rectangle ki width calculate karo
+                int width;
+
+                if (st.empty()) {
+                    // Agar stack empty hai,
+                    // rectangle index 0 se start hua tha
+                    width = i;
+                }
+                else {
+                    // Stack ke top ke baad se
+                    // current index se pehle tak rectangle hai
+                    width = i - st.top() - 1;
+                }
+
+                // Rectangle area
+                int area = height * width;
+
+                // Maximum area update karo
+                maxArea = max(maxArea, area);
+            }
+
+            // Current index ko stack mein daalo
+            st.push(i);
         }
+
+        // Jo 0 add kiya tha usko remove kar do
+        heights.pop_back();
 
         return maxArea;
     }
 
 
-    // ------------------------------------------------
-    // LeetCode 85: Maximal Rectangle
-    // ------------------------------------------------
+    // LeetCode 85:
+    // Find maximum rectangle containing only 1s
     int maximalRectangle(vector<vector<char>>& matrix) {
 
         // Agar matrix empty hai
         if (matrix.empty())
             return 0;
 
+        // Number of rows
         int rows = matrix.size();
+
+        // Number of columns
         int cols = matrix[0].size();
 
         // Har column ki current height
         vector<int> heights(cols, 0);
 
-        // Final answer
+        // Final maximum answer
         int answer = 0;
 
 
@@ -113,22 +82,21 @@ public:
 
                 if (matrix[i][j] == '1') {
 
-                    // Agar current cell 1 hai,
-                    // toh consecutive height mein 1 add karo
+                    // Agar 1 hai,
+                    // previous height mein 1 add karo
                     heights[j]++;
 
                 }
                 else {
 
-                    // Agar 0 mila,
-                    // toh consecutive 1s ka chain toot gaya
+                    // Agar 0 hai,
+                    // continuous 1s ka chain toot gaya
                     heights[j] = 0;
                 }
             }
 
-
-            // Current row ke heights ko histogram samjho
-            // aur LC 84 ka function use karo
+            // Current heights ko histogram maan kar
+            // LeetCode 84 solve karo
             int currentArea = largestRectangleArea(heights);
 
             // Overall maximum update karo
