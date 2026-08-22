@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhinav642007/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Abhinav642007/DSA/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinav642007/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Abhinav642007/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhinav642007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Abhinav642007/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav642007/DSA/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinav642007/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Abhinav642007/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhinav642007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abhinav642007/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav642007/DSA/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Abhinav642007/DSA/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/Abhinav642007/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav642007/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Abhinav642007/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinav642007/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Abhinav642007/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhinav642007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Abhinav642007/DSA/tree/master/0739-daily-temperatures) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinav642007/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Abhinav642007/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
