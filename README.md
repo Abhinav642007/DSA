@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhinav642007/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav642007/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav642007/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0460-lfu-cache](https://github.com/Abhinav642007/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav642007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav642007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Abhinav642007/DSA/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Abhinav642007/DSA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinav642007/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -296,12 +298,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abhinav642007/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhinav642007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinav642007/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Abhinav642007/DSA/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Abhinav642007/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Abhinav642007/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhinav642007/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Abhinav642007/DSA/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Abhinav642007/DSA/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
