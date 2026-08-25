@@ -1,86 +1,131 @@
 class LFUCache {
 public:
 
-    // key -> value
-    unordered_map<int, int> value;
+    // DLL Node
+    class Node {
+    public:
+        int key, value, freq;
+        Node* prev;
+        Node* next;
 
-    // key -> frequency
-    unordered_map<int, int> freq;
+        Node(int k, int v) {
+            key = k;
+            value = v;
+            freq = 1;
+            prev = NULL;
+            next = NULL;
+        }
+    };
 
-    // frequency -> keys
-    unordered_map<int, list<int>> mp;
+    // key -> node
+    unordered_map<int, Node*> mp;
+
+    // freq -> DLL
+    unordered_map<int, list<Node*>> freqList;
 
     int capacity;
+    int minFreq;
+
 
     LFUCache(int capacity) {
         this->capacity = capacity;
+        minFreq = 0;
     }
+
 
     int get(int key) {
 
-        // Key nahi hai
-        if (value.find(key) == value.end())
+        // Key nahi mili
+        if (mp.find(key) == mp.end())
             return -1;
 
-        // Old frequency
-        int old = freq[key];
+        Node* node = mp[key];
 
         // Frequency increase
-        freq[key]++;
+        increaseFreq(node);
 
-        // Old frequency list se remove
-        mp[old].remove(key);
-
-        // New frequency list mein add
-        mp[freq[key]].push_back(key);
-
-        return value[key];
+        return node->value;
     }
 
-    void put(int key, int val) {
+
+    void put(int key, int value) {
 
         // Capacity 0
         if (capacity == 0)
             return;
 
         // Key already present
-        if (value.find(key) != value.end()) {
+        if (mp.find(key) != mp.end()) {
+
+            Node* node = mp[key];
 
             // Value update
-            value[key] = val;
+            node->value = value;
 
             // Frequency increase
-            get(key);
+            increaseFreq(node);
 
             return;
         }
 
         // Cache full
-        if (value.size() == capacity) {
+        if (mp.size() == capacity) {
 
-            int minFreq = INT_MAX;
+            // LFU frequency ki list
+            auto &lst = freqList[minFreq];
 
-            // Minimum frequency find
-            for (auto x : freq) {
-                minFreq = min(minFreq, x.second);
-            }
+            // Front = LRU
+            Node* lru = lst.front();
 
-            // LFU key
-            int removeKey = mp[minFreq].front();
+            // Remove LRU
+            lst.pop_front();
 
-            // Remove LFU key
-            mp[minFreq].pop_front();
-            value.erase(removeKey);
-            freq.erase(removeKey);
+            mp.erase(lru->key);
+
+            delete lru;
         }
 
-        // New key add
-        value[key] = val;
+        // New node
+        Node* node = new Node(key, value);
 
-        // New key ki frequency = 1
-        freq[key] = 1;
+        // Store node
+        mp[key] = node;
 
-        // Frequency 1 list mein add
-        mp[1].push_back(key);
+        // New node -> freq 1
+        freqList[1].push_back(node);
+
+        // Minimum frequency = 1
+        minFreq = 1;
+    }
+
+
+    void increaseFreq(Node* node) {
+
+        int oldFreq = node->freq;
+
+        // Old frequency list
+        auto &oldList = freqList[oldFreq];
+
+        // Find node
+        for (auto it = oldList.begin(); it != oldList.end(); it++) {
+
+            if (*it == node) {
+                oldList.erase(it);
+                break;
+            }
+        }
+
+        // Frequency increase
+        node->freq++;
+
+        int newFreq = node->freq;
+
+        // New frequency list mein MRU
+        freqList[newFreq].push_back(node);
+
+        // Agar old minimum list empty ho gayi
+        if (oldFreq == minFreq && oldList.empty()) {
+            minFreq++;
+        }
     }
 };
