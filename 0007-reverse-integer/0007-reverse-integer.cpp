@@ -7,13 +7,8 @@ public:
             int digit = x % 10;
             x /= 10;
 
-            // Check overflow before multiplying by 10
             if (ans > INT_MAX / 10 || 
-                (ans == INT_MAX / 10 && digit > 7))
-                return 0;
-
-            if (ans < INT_MIN / 10 || 
-                (ans == INT_MIN / 10 && digit < -8))
+                ans < INT_MIN / 10)
                 return 0;
 
             ans = ans * 10 + digit;
