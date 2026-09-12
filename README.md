@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhinav642007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav642007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Abhinav642007/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhinav642007/DSA/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav642007/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav642007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhinav642007/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Abhinav642007/DSA/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Abhinav642007/DSA/tree/master/3945-digit-frequency-score) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav642007/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abhinav642007/DSA/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav642007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tournament Sort
 |  |
 | ------- |
