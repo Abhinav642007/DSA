@@ -6,7 +6,7 @@ public:
         }
         int original = x;
         long int rev=0,rem;
-        while(x!=0){
+        while(x>0){
             rev = rev * 10 + x % 10;
             x = x/10;
         }
