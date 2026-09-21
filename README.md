@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abhinav642007/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abhinav642007/DSA/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Abhinav642007/DSA/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Abhinav642007/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhinav642007/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abhinav642007/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Abhinav642007/DSA/tree/master/0412-fizz-buzz) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Abhinav642007/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Abhinav642007/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Abhinav642007/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhinav642007/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhinav642007/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Abhinav642007/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Abhinav642007/DSA/tree/master/2413-smallest-even-multiple) |
 ## String Matching
 |  |
