@@ -9,29 +9,26 @@
  */
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        
-        TreeNode* curr = root;
-        
-            if(curr == nullptr) {
-                return nullptr;
-            }
-            if(curr == p || curr == q) {
-                return curr;
-            }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q)
+{
+    // Base case
+    if (root == NULL || root == p || root == q)
+        return root;
 
-                TreeNode* left = lowestCommonAncestor(curr->left, p, q);
-                TreeNode* right = lowestCommonAncestor(curr->right,p ,q);
-                if(right != nullptr && left != nullptr){
-                    return curr;
-                }
-            
+    // Search in left subtree
+    TreeNode* left = lowestCommonAncestor(root->left, p, q);
 
-            if(nullptr!= left) {
-                return left;
-            }
-            return right;
-        
-        return nullptr;
-    }
+    // Search in right subtree
+    TreeNode* right = lowestCommonAncestor(root->right, p, q);
+
+    // Both sides found a node
+    if (left != NULL && right != NULL)
+        return root;
+
+    // Return the side that found a node
+    if (left != NULL)
+        return left;
+
+    return right;
+}
 };
