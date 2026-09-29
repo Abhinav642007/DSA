@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhinav642007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinav642007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav642007/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Abhinav642007/DSA/tree/master/3310-remove-methods-from-project) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhinav642007/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhinav642007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinav642007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhinav642007/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhinav642007/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav642007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhinav642007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhinav642007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
