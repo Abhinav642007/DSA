@@ -1,25 +1,28 @@
-class Solution { 
-public: 
-    vector<string> generateParenthesis(int n) { 
+class Solution {
+public:
+    void solve(int open, int close, string curr, vector<string>& ans) {
+        // If all brackets are used
+        if (open == 0 && close == 0) {
+            ans.push_back(curr);
+            return;
+        }
+
+        // Add '(' if available
+        if (open > 0) {
+            solve(open - 1, close, curr + "(", ans);
+        }
+
+        // Add ')' only when there is an unmatched '('
+        if (close > open) {
+            solve(open, close - 1, curr + ")", ans);
+        }
+    }
+
+    vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        string cur;
-        function<void(int,int)> dfs = [&](int open, int close) {
-            if (open == 0 && close == 0) {
-                ans.push_back(cur);
-                return;
-            }
-            if (open > 0) {
-                cur.push_back('(');
-                dfs(open - 1, close);
-                cur.pop_back();
-            }
-            if (close > open) {
-                cur.push_back(')');
-                dfs(open, close - 1);
-                cur.pop_back();
-            }
-        };
-        dfs(n, n);
+
+        solve(n, n, "", ans);
+
         return ans;
-    } 
+    }
 };
