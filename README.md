@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhinav642007/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav642007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Abhinav642007/DSA/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav642007/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhinav642007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav642007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -561,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhinav642007/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhinav642007/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav642007/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
