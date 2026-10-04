@@ -1,26 +1,21 @@
 class Solution {
 public:
     string truncateSentence(string s, int k) {
-        
-    }
-};class Solution {
-public:
-    string truncateSentence(string s, int k) 
-    {
-        int space=0;
-        string ans= "";
-        for (int i=0; i<s.length(); i++)
-        {
-            if(s[i]==' ')  
-            {
-                space++;
+        int spaces = 0;
+        string ans = "";
+
+        for (char c : s) {
+            if (c == ' ') {
+                spaces++;
+
+                if (spaces == k) {
+                    break;
+                }
             }
-            if(space==k)
-            {
-                return ans;
-            }
-            ans+=s[i];
-        }  
-        return s;
+
+            ans += c;
+        }
+
+        return ans;
     }
 };
