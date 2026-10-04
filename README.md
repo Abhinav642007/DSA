@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Abhinav642007/DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav642007/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhinav642007/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1816-truncate-sentence](https://github.com/Abhinav642007/DSA/tree/master/1816-truncate-sentence) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhinav642007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav642007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Abhinav642007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Abhinav642007/DSA/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhinav642007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1816-truncate-sentence](https://github.com/Abhinav642007/DSA/tree/master/1816-truncate-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhinav642007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav642007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhinav642007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
