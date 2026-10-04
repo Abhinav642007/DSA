@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Abhinav642007/DSA/tree/master/1816-truncate-sentence) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhinav642007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav642007/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav642007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Abhinav642007/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhinav642007/DSA/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhinav642007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav642007/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhinav642007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tournament Sort
