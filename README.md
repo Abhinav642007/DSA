@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Abhinav642007/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav642007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Abhinav642007/DSA/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhinav642007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/Abhinav642007/DSA/tree/master/1816-truncate-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhinav642007/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Abhinav642007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Abhinav642007/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhinav642007/DSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Abhinav642007/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Abhinav642007/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhinav642007/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav642007/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Abhinav642007/DSA/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
