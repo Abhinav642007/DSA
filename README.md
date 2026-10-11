@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Abhinav642007/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhinav642007/DSA/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhinav642007/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/Abhinav642007/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Abhinav642007/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav642007/DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Abhinav642007/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhinav642007/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Abhinav642007/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Abhinav642007/DSA/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Abhinav642007/DSA/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhinav642007/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhinav642007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhinav642007/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhinav642007/DSA/tree/master/0085-maximal-rectangle) |
+| [0867-transpose-matrix](https://github.com/Abhinav642007/DSA/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
